@@ -131,7 +131,7 @@ Zararlı yazılımlar genellikle kendilerini Windows'un kendi sistem dosyaları 
 
 !
 
-* **Oda:** [TryHackMe | Core Windows Processes](https://tryhackme.com/room/corewindows)
+* **Oda:** [TryHackMe | Core Windows Processes](https://tryhackme.com/room/btwindowsinternals)
 * **Kritik Süreç Analizi:**
     Odayı tamamlarken aşağıdaki kritik süreçlerin ne işe yaradığını birer cümleyle (Türkçe ve kendi yorumunuzla) açıklayın. Bu süreçler ilerde malware analizi yaparken karşınıza en çok çıkacak olanlardır:
     1.  **System (PID 4):** Neden her zaman PID 4'tür? Kernel (Çekirdek) ile ilişkisi nedir?
